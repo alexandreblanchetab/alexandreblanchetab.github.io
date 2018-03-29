@@ -1,0 +1,115 @@
+{
+  "contact": {
+    "nom": "Alexandre Blanchet",
+    "profile": "Programmeur / Intégrateur",
+    "courriel": "alexandre.blanchet.ab@gmail.com",
+    "telephone": "(418)-554-1613",
+    "aPropos": "Defis et chalenges sont les deux éléments qui me permettent de vivre ma passion. Ils me permettent de transmettre ma créativité et mon goût de dépassement tous les jours. Je peaufine mes interfaces pour donner la meilleure expérience à l'utilisateur",
+    "addresse": {
+      "maison": "1238 rue du Collège, Saint-Agapit ",
+      "codePostal": "G0S 1Z0",
+      "ville": "Québec",
+      "pays": "Canada",
+      "province": "Québec"
+    },
+  "emplois": [
+    {
+      "compagnie": "Solotech",
+      "profile": "Technicien Éclairagiste",
+      "siteWeb": "https://solotech.com",
+      "date_debut": "2016",
+      "competences": [
+        "Montage d'éclairage de spectacles",
+        "Préparation et manutention des équipements",
+        "Gestion de l'inventaire "
+      ]
+    },
+    {
+      "compagnie": "Exo Shop",
+      "profile": "Vendeur ",
+      "siteWeb": "https://www.exoshop.com",
+      "dateDebut": "2014",
+      "dateFin": "2016",
+      "competences": [
+        "Commande de marchandise",
+        "Gestion de l'inventaire",
+        "Service et vente à la clientèle"
+      ]
+    }
+  ],
+
+  "etudes": [
+    {
+      "institution": "Cégep de Sainte-Foy",
+      "programme": "Techniques d'intégration multimédia - Web et apps",
+      "studyType": "DEC",
+      "startDate": "2017",
+    },
+    {
+      "institution": "CFP Maurice Barbeau",
+      "programme": "Sonorisation",
+      "studyType": "AEC",
+      "dateDebut": "2014",
+      "dateFin": "2015",
+     
+    },
+    {
+      "institution": "Cégep de Montmagny",
+      "programme": "Gestion et Technique de scène",
+      "studyType": "DEC",
+      "dateDebut": "2011",
+      "dateFin": "2012",
+    }
+      
+  ],
+  "competences": [
+    {
+      "domaine": "Intégration / Programmation Web",
+      "motsCles": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "domaine": "Design Graphique / Animation",
+      "motCles": [
+        "Photoshop",
+        "Illustrator",
+        "Sketch",
+        "Animate",
+        "Cubase"
+      ]
+    }
+  ],
+  "realisations": [
+      {
+          "domaine": "Musique",
+          "motsCles": [
+              "Productions de trois albums", 
+              "Membre du groupe Cheap Love"
+              ]
+      }
+  ],
+  "interets": [
+    {
+      "domaine": "Musique",
+      "motsCles": [
+        "Guitare",
+        "Chant"
+      ]
+    },
+    {
+      "domaine": "Sports",
+      "motsCles": [
+        "Entraînement",
+        "Course"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "reference": " Disponibles sur demande",
+    }
+  ]
+}
